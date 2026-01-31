@@ -1,4 +1,4 @@
-# Charybdis ZMK: Swap trackball layers на badjeff и версии 0.3
+# Charybdis ZMK: Swap trackball layers на badjeff и версии 0.3 (Forked from yangxing844/charybdis-zmk)
 
 ## Изменения 07.11.2025 - Переключение слоёв трекбола
 
